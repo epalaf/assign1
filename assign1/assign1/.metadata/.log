@@ -1,0 +1,39 @@
+!SESSION 2026-09-01 17:22:58.457 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.12.1
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data /home/student/git/assign1/assign1/assign1
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:23:04.185
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:23:07.254
+!MESSAGE Logback config file: /home/student/git/assign1/assign1/assign1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-09-01 17:52:30.019 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.12.1
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data /home/student/git/assign1/assign1/assign1
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:52:35.365
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:52:39.696
+!MESSAGE Logback config file: /home/student/git/assign1/assign1/assign1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-09-01 17:56:02.699 -----------------------------------------------
+eclipse.buildId=4.39.0.20260305-0817
+java.version=21.0.12.1
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:56:05.787
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-09-01 17:56:08.047
+!MESSAGE Logback config file: /home/student/git/assign1/assign1/assign1/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
